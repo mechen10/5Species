@@ -1,2 +1,2 @@
 # CUBoulder
-All PhD work for CU Boulder
+All work for the 5 species dataset
